@@ -45,6 +45,8 @@ If you use this dataset and API in a publication, please cite us using: &nbsp;
 
 # Getting started
 
+First clone this repo into the directory of your choice.
+
 ### Requirements 
 
 To install the required python packages simply type
