@@ -12,5 +12,3 @@ jupyterlab
 scipy
 scikit-image
 imgaug
-pip
-git
