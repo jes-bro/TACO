@@ -7,3 +7,10 @@ matplotlib
 seaborn
 graphviz
 Cython
+tensorflow
+jupyterlab
+scipy
+scikit-image
+imgaug
+pip
+git
